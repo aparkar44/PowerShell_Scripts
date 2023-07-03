@@ -1,5 +1,5 @@
 # Specify the path and name of the folder to create
-$folderPath = "C:\Abraar Parkar\PowerShellScripts"
+$folderPath = "C:\Abraar Parkar\PowerShell_Scripts\ServiceBasedScripts"
 
 
 # Check if the folder already exists 
