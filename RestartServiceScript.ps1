@@ -11,3 +11,5 @@ if((Get-Service -Name $serviceName).Status -eq "Running"){
 } else {
     Write-Host "Service '$serviceName' is not currently running."
 }
+
+#abcd
