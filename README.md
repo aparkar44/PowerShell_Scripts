@@ -1,6 +1,7 @@
-**Welcome to my Powershell Scripts Repo.
-**
+Welcome to my Powershell Scripts Repo.
+
 -This is the Main Branch here you can see:
+
 • File-Based Scripts - This directory contains all scripts related to operations that can be performed regarding folders.
 
 • Folder-Based Scripts - This directory contains all scripts related to operations that can be performed regarding files.
